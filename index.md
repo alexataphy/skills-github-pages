@@ -1,3 +1,8 @@
+
 ---
-title: Welcome to my blog!
+title: Page test!
 ---
+
+
+# testing the site
+## with markdown
